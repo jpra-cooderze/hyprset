@@ -3,5 +3,5 @@ GUI for Hyprland: options, keybinds, monitors, autostart, env vars, rules, raw c
 Changes apply live via `hyprctl` and are saved to `~/.config/hypr/hyprland-settings.conf`.
 
 ## Install (Arch / CachyOS / EndeavourOS)
-    git clone https://github.com/YOUR_USER/hyprland-settings.git
+    git clone https://github.com/jpra-cooderze/hyprset.git
     cd hyprland-settings && ./install.sh
